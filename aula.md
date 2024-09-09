@@ -27,7 +27,7 @@ Apresentar os dados
 
 ## Escopo e variáveis
 - [X] Variáveis globais e locais
-- [X] Constantes
+- [X]Constantes
 
 
 
