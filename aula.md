@@ -12,7 +12,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Declaração de Variaveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
-- Estrutura de Dados (Functions, object, array)
+- Estrutura de Dados (functions, object, array)
 - Controle de Fluxo (if/else)
 - Estrutura de repetição (for, while)
 
@@ -40,8 +40,9 @@ Apresentar os dados
 
 
 ## Operadores
-- [X] Operadores de atribuição de valor = 
-- [X] Operador de concatenação +
+- [X] Operadores de atribuição de valor: = 
+- [X] Operador de concatenação: +
+- [X] Operadores de comparação : ==, >, <, <=, >=, !=
 
 ## Estruturads de dados:
 
@@ -70,12 +71,12 @@ Apresentar os dados
 # Condicinais
 
 - [x] switch
-
+- [x] If/Else
 
 
 ## Módulos em Node.js
 
-- [X] Importação de Módulos (require, CommonJS)
+- [X] Importação de Módulos (require, CommonJS) (npm install inquirer)
 - [X] Biblioteca "Inquirer" para criar prompts interativos
 
 
