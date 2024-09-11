@@ -70,4 +70,10 @@ Apresentar os dados
 # Condicinais
 
 - [x] switch
-- []
+
+
+
+## Módulos em Node.js
+
+- [] Importação de Módulos (require, CommonJS)
+- [] Biblioteca "Inquirer" para criar prompts interativos
