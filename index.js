@@ -3,6 +3,9 @@ const { select } = require('@inquirer/prompts')
 
 
 const start = async() => {
+  
+  
+  
   while(true){
 
     const opcao = await select({

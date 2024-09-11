@@ -75,5 +75,9 @@ Apresentar os dados
 
 ## Módulos em Node.js
 
-- [] Importação de Módulos (require, CommonJS)
-- [] Biblioteca "Inquirer" para criar prompts interativos
+- [X] Importação de Módulos (require, CommonJS)
+- [X] Biblioteca "Inquirer" para criar prompts interativos
+
+
+## Programação assíncrona e Promises
+- [X] Uso de funções assíncronas (async, await)
