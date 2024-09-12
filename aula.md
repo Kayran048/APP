@@ -82,6 +82,14 @@ Apresentar os dados
 
 - [X] Importação de Módulos (require, CommonJS) (npm install inquirer)
 - [X] Biblioteca "Inquirer" para criar prompts interativos
+- [X] FS (file system)
+
+
+## JSON
+
+- [X] JavaScript Object Notation (.json)
+- [X] JSON.parse() : transforma de JSON para JS
+- [X] JSON.stringify : transforma de JS para JSON
 
 
 ## Programação assíncrona e Promises
